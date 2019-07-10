@@ -2,7 +2,7 @@
 
 Creating Rest API with Python and MongoDB
 
-#### First you need to creat your envinroment (I'm using Anaconda)
+#### First you need to creat your envinroment (I'm using Anaconda and PyCharm)
 `$ mkdir api-with-mongodb-app`
 
 `$ conda create -n api-with-mongodb-app`
